@@ -22,3 +22,4 @@
 <p><img height ="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallacequeiros&show_icons=true&theme=dracula&bg_color=303030&locale=en&layout=compact" alt="wallacequeiros" /></p>
 
 <p>&nbsp;<img height ="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=wallacequeiros&show_icons=true&theme=dracula&bg_color=303030&locale=en" alt="wallacequeiros" /></p>
+<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wallacequeiros&theme=dracula" alt="wallacequeiros" /></p>
