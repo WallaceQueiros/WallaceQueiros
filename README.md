@@ -3,7 +3,7 @@
 <h3 align="center">Software engineer student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
-- 🌱 I’m currently learning: **React Native**
+- 🌱 I’m currently learning: **Kotlin**
 
 - 💬 Ask me about: **Python**
 
