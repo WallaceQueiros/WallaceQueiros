@@ -54,5 +54,5 @@
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=wallacequeiros&theme=vue-dark&background=0d1117&stroke=1abc9c&ring=1abc9c&fire=1abc9c&currStreakLabel=1abc9c" alt="wallacequeiros" />
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallacequeiros&show_icons=true&theme=vue-dark&bg_color=0d1117&title_color=1abc9c&text_color=c9d1d9&layout=compact" alt="wallacequeiros" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallacequeiros&show_icons=true&theme=vue-dark&bg_color=0d1117&title_color=1abc9c&text_color=c9d1d9&layout=compact&cache_bust=1718027065" alt="wallacequeiros" />
 </p>
